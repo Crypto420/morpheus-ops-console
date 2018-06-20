@@ -19,7 +19,7 @@ Provide access integration to:
   
 ## Blockchain Networks
 
-The blockchain networks to be suppoted for first release of ML BPaaS are: Ethereum, HyperLedger Fabric, NEM and MultiChain.
+The blockchain networks to be supported for first release of ML BPaaS are: Ethereum, HyperLedger Fabric, NEM and MultiChain.
 
 ## APIs and SDK of Blockchain Networks
 
@@ -51,7 +51,7 @@ MultiChain is compatible with any API library developed for Bitcoin Core. Multic
 
 ## Blockchain Operation Console Functions
 
-The blockchain Operation Console funcitons will be implemented in phases.
+The blockchain Operation Console functions will be implemented in phases.
 
 ### Phase 1:
 
@@ -64,7 +64,7 @@ Provision of basic blockchain network for HyperLedger Fabric, Ethereum, Nem and 
 
 ### Phase 2:
 
-Provision of more complext blockchain network for HyperLedger Fabric, Ethereum, Nem and Multichain.
+Provision of more complex blockchain network for HyperLedger Fabric, Ethereum, Nem and Multichain.
 
 ### Phase 3:
 
